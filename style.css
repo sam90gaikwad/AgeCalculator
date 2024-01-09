@@ -1,0 +1,32 @@
+.container{
+    align-items: center;
+    margin-top: 50px;
+    height: 300px;
+    width: 400px;
+    background-color: cyan;
+    margin-left: 30%;
+    margin-right: 30%;
+    border: 2px solid red;
+    border-radius: 30px ;
+    box-shadow: 5px 4px gray;
+}
+
+.inp{
+    margin-left: 80px;
+}
+.inp input{
+    padding: 20px 70px;
+}
+.inp button{
+    padding: 10px 50px;
+    background-color: blue;
+    color: white;
+}
+
+button{
+    margin: 20px;
+}
+h3{
+    text-align: center;
+    margin-top: 30px;
+}
